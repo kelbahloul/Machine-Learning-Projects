@@ -1,5 +1,29 @@
-### Project-1-Logistic-Regression Based On Tesla(SYM: TSLA)
-- This project was coded in python with documentation using Jupyter Notebook. It shows whether it is better to Buy (1) a share(s) or sell (-1). This is based on historical data of 10 years derived from Yahoo Finance.
+###### Markup and Organization Was Done with Amazon Web Services Cloud9
+# Directory 
+Within different folder is presented my knowledge and experience of Machine Learning
 
-### Project-2-Support Vector Regression - JP Morgan Chase & Co.(SYM: JPM)
-- This project focuses on Support Vector Machine based on unsupervised learning algorithm to track whether JPM is a good investment in the stock exchange. 
+### Code/
+
+This repository show the raw code I used to create my algorithms. I am quite skilled in Python using PEP 8 and Object Oriented Programming. 
+Some of the algorithms I used were:
+
+- Logistic Regression
+- Regression Testing Using SVM
+- Gaussian Naive Bayes
+
+### datasets/
+
+These are my datasets that I used in my code and notebooks. Most are in Excel CSV format and some are in MySQL database. 
+Datasets are available upon request by creating an issue to replicate code or notebook.
+
+### notebooks/
+
+These are some of presentations where I used markup and raw Python code to present data analysis and machine learning upon different equities.
+Some of the sectors I am currently analyzing are Financials and Technology within the NASDAQ Exchange.
+
+### reports/
+
+After analysis, I will create PDF formats of notebooks for presentable reports. If code is broken, please make an issue above. 
+Feel free to fix error or I will upload a shell script using BASH or PowerShell to install mandatory dependencies.
+
+
